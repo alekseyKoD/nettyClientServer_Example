@@ -8,7 +8,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 
-public class NettyServer {
+public class NettyServer_String {
     private static final int PORT = 8080;
 
     public static void main(String[] args) throws Exception {
